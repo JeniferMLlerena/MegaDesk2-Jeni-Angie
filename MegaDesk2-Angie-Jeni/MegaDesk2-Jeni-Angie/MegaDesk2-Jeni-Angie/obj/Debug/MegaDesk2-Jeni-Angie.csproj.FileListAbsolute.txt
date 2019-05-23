@@ -1,0 +1,17 @@
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2-Jeni-Angie.csprojAssemblyReference.cache
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2_Jeni_Angie.AddQuote.resources
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2_Jeni_Angie.DisplayQuote.resources
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2_Jeni_Angie.MainMenu.resources
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2_Jeni_Angie.Properties.Resources.resources
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2_Jeni_Angie.SearchQuotes.resources
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2_Jeni_Angie.ViewAllQuotes.resources
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2-Jeni-Angie.csproj.GenerateResource.cache
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2-Jeni-Angie.csproj.CoreCompileInputs.cache
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\bin\Debug\MegaDesk2-Jeni-Angie.exe.config
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\bin\Debug\MegaDesk2-Jeni-Angie.exe
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\bin\Debug\MegaDesk2-Jeni-Angie.pdb
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2-Jeni-Angie.csproj.CopyComplete
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2-Jeni-Angie.exe
+C:\Users\jenla\OneDrive\Desktop\BYUI\CIT365-Projects\MegaDesk2-Angie-Jeni\MegaDesk2-Jeni-Angie\MegaDesk2-Jeni-Angie\obj\Debug\MegaDesk2-Jeni-Angie.pdb
